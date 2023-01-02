@@ -30,11 +30,11 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfngn@gmail.com)](mailto:dhfngn@gmail.com)
   
   </div>
-  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisy0y&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-![hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisy0y&show_icons=true&theme=material-palenight)
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=daisy0y&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=daisy0y&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>
 
 <!--
 **daisy0y/daisy0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
