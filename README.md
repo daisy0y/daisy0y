@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-### 2년차 프론트엔드 개발자 이종혁입니다 👋
+### 프론트엔드 개발자 이종혁입니다 👋
 
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
 <div align="center">
